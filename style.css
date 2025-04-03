@@ -20,7 +20,7 @@
 }
 
 body {
-    background-color: var(--neu-White);
+    background-color: #fafafa;
     font-family: var(--main-font);
 }
 header{
